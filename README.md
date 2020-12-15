@@ -1,4 +1,4 @@
-Para usar el archivo completar el `DOMAIN_MAILGUN` y 
+Para usar el archivo completar en `index.js` el `DOMAIN_MAILGUN` y la 
 `PRIVATE_API_KEY` con los del mailgun de DeR.
 
 Posteriormente instalar paquetes haciendo `npm ci` y correr haciendo `node index.js`.
